@@ -2,7 +2,7 @@
 Noted the desired output was just the name column, so I would need to focus only on the conditionals and data types.
 
 # Approach
-> So the __*SELECT name FROM Customer*__ statement was very easy to get, since the output only required the name column returned. 
+So the __*SELECT name FROM Customer*__ statement was very easy to get, since the output only required the name column returned. 
 
 The __*WHERE referee_id != 2 OR referee_id IS NULL;*__ statement I was trying to figure out if there was a way to make it shorter, but no success. 
 
